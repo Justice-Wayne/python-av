@@ -1,5 +1,5 @@
-# python bypass-av
-olddddd 很老 很久之前的作品了，，， 目前还能免一免（重新编译自己在改改吧）。
+# python xav
+olddddd 很老 很久之前的作品了，，， 记录一下。
 
 
 常规操作 
